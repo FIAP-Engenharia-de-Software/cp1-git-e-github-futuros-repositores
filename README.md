@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=2980b9&height=200&section=header&text=SocialConnect&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Concluído-2980b9?style=for-the-badge&logo=github" alt="Status">
@@ -52,14 +51,49 @@ Para garantir a qualidade e a conformidade com as exigências acadêmicas, imple
 ---
 
 ## 👥 Squad de Desenvolvimento
-| Avatar | Nome do Integrante | RM |
-| :---: | :--- | :---: | :--- |
-| <img src="https://github.com/renanqsr.png" width="40"> | Renan Queiroz | RM569077 |
-| <img src="https://github.com/pedromarquess1.png" width="40"> | Pedro Henrique | RM569307 |
-| <img src="https://github.com/Raphael-Oliveira7.png" width="40"> | Raphael Oliveira | RM571065 |
-| <img src="https://github.com/evandro-tech.png" width="40"> | Evandro Marcondes | RM572473 |
-| <img src="https://github.com/enzoizidoro07.png" width="40"> | Enzo Alves | RM569665 |
+<p align="left">
+<img src="https://github.com/renanqsr.png" width="50" style="border-radius: 50%;" align="left" />
+<b>Renan Queiroz</b>
 
+
+RM569077</i>
+</p>
+
+
+<p align="left">
+<img src="https://github.com/pedromarquess1.png" width="50" style="border-radius: 50%;" align="left" />
+<b>Pedro Henrique</b>
+
+
+RM569307</i>
+</p>
+
+
+<p align="left">
+<img src="https://github.com/Raphael-Oliveira7.png" width="50" style="border-radius: 50%;" align="left" />
+<b>Raphael Oliveira</b>
+
+
+RM571065</i>
+</p>
+
+
+<p align="left">
+<img src="https://github.com/evandro-tech.png" width="50" style="border-radius: 50%;" align="left" />
+<b>Evandro Marcondes</b>
+
+
+RM572473</i>
+</p>
+
+
+<p align="left">
+<img src="https://github.com/enzoizidoro07.png" width="50" style="border-radius: 50%;" align="left" />
+<b>Enzo Alves</b>
+
+
+RM569665</i>
+</p>
 ---
 
 <div align="center">
