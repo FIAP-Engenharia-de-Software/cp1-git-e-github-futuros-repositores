@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub_Pages-Ativo-success?style=for-the-badge&logo=github-pages&logoColor=white" alt="Pages">
   </p>
 
-  ### 🌐 [Clique aqui para visualizar o Projeto ao Vivo](https://...)
+  ### 🌐 [Clique aqui para visualizar o Projeto ao Vivo](https://fiap-engenharia-de-software.github.io/cp1-git-e-github-futuros-repositores/)
 </div>
 
 ---
@@ -52,7 +52,7 @@ Para garantir a qualidade e a conformidade com as exigências acadêmicas, imple
 ---
 
 ## 👥 Squad de Desenvolvimento
-| Avatar | Nome do Integrante | RM | Especialidade no Ciclo |
+| Avatar | Nome do Integrante | RM |
 | :---: | :--- | :---: | :--- |
 | <img src="https://github.com/renanqsr.png" width="40"> | Renan Queiroz | RM569077 |
 | <img src="https://github.com/pedromarquess1.png" width="40"> | Pedro Henrique | RM569307 |
