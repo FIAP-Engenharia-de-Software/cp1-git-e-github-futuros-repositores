@@ -40,13 +40,13 @@ Para garantir a qualidade e a conformidade com as exigências acadêmicas, imple
 
 ### Estrutura de Branches (Roadmap):
 - `fix/imagens-e-cores` ➜ Recuperação de Assets e Identidade Visual.
-- `fix/rodape-correcoes` ➜ Higienização de dados e correção ortográfica.
-- `fix/sobre-texto-original` ➜ Restauração de conteúdo legado.
-- `feature/sobre-equipe` ➜ Implementação de seção de talentos.
-- `fix/menu-projetos` ➜ Reestruturação da arquitetura de navegação.
-- `feature/secao-contato` ➜ Módulo de atendimento e suporte.
-- `feature/redes-sociais` ➜ Integração com ecossistemas externos.
-- `docs/readme-final` ➜ Documentação técnica e guia do projeto.
+- `fix/correcao-rodape` ➜ Higienização de dados e correção ortográfica.
+- `fix/recuperar-texto` ➜ Restauração de conteúdo legado da seção "Sobre".
+- `fix/texto-nossa-equipe` ➜ Implementação e descrição da seção de talentos.
+- `feat/projetos` ➜ Reestruturação da arquitetura de navegação (Menu).
+- `feat/secao-de-contato` ➜ Módulo de atendimento e suporte.
+- `feature/secao-contato` ➜ Integração com ecossistemas externos (LinkedIn e Instagram).
+- `docs/readme` ➜ Documentação técnica e guia do projeto.
 
 ---
 
@@ -94,7 +94,7 @@ RM572473</i>
 
 RM569665</i>
 </p>
----
+
 
 <div align="center">
   <sub>CheckPoint 1 - FIAP 2026. Desenvolvido com muita dedicação</sub>
